@@ -1,3 +1,3 @@
 # PROJETOS EM PYTHON
 
-Esses são os projtos que eu fiz, finalizados ou não
+Esses são os projtos que eu fiz em Python, finalizados ou não
