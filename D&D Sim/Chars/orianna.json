@@ -1,0 +1,9 @@
+{
+    "name": "Orianna",
+    "strength": 40,
+    "dexterity": 120,
+    "armor": "studded leather",
+    "weapon": "rapier",
+    "shield": "True",
+    "HP": 80
+}

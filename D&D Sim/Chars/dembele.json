@@ -1,0 +1,9 @@
+{
+    "name": "Dembele",
+    "strength": 80,
+    "dexterity": 80,
+    "armor": "breastplate",
+    "weapon": "dagger",
+    "shield": "True",
+    "HP": 80
+}
